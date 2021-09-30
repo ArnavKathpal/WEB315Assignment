@@ -1,7 +1,7 @@
 using System;
 using System.ComponentModel.DataAnnotations;
 
-namespace RazorPagesMovie.Models
+namespace Knowledge.Models
 {
     public class Movie
     {
@@ -11,6 +11,6 @@ namespace RazorPagesMovie.Models
         [DataType(DataType.Date)]
         public DateTime ReleaseDate { get; set; }
         public string Genre { get; set; }
-        public decimal Price { get; set; }
+        public decimal Price { get; set; }   
     }
 }

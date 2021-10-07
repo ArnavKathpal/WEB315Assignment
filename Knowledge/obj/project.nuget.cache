@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4suOBN9WcIUZav20SptTG2RJ+6EvnzvXpJclBWTb/d+FticlrZplWpkt1PONnM/b4lj1v9c8rAqwtBSPdw4qoQ==",
+  "dgSpecHash": "BLqofdHn1kN+7zk9FyExGzXcXEYmL3IJvMf5lNwlLNMMEqdW1/ZoYvXfGSslPt7/cAi4BbsgQ2tz1s8glHIleA==",
   "success": true,
-  "projectFilePath": "C:\\Project\\WEB-315Assignment\\knowledge\\Knowledge.csproj",
+  "projectFilePath": "C:\\Project\\WEB-315Assignment\\Knowledge\\Knowledge.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
